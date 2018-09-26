@@ -22,4 +22,10 @@ Prueba
 
 > Estao es una cita. Gil
 
-`it init`
+`git init`
+
+~~~
+bloque de codigo
+werwr
+werwer
+~~~
